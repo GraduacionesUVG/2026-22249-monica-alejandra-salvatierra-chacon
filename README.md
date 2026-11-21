@@ -14,6 +14,24 @@ La aplicación depende de la ubicación física del usuario y solo funciona corr
 
 Dentro del equipo, mi trabajo se concentró en el diseño de la arquitectura modular general de la aplicación y en la integración entre los distintos módulos, incluyendo el bus de eventos, la inyección de dependencias y el manejo centralizado del estado del recorrido. Además, desarrollé el módulo de lenguaje, encargado de la experiencia en español e inglés. 
 
+## Estructura del Repositorio
+
+```
+.
+├── capturas/                   # capturas de pantalla de la app (ver sección Capturas)
+├── demo/
+│   └── demo.mp4                # Video demostrativo del recorrido completo en el parque
+├── docs/
+│   ├── informe_final.pdf       # Informe final del proyecto
+│   └── consentimiento_firmado.pdf
+├── src/
+│   ├── ArTourKaminaljuyu/      # Código fuente de la app iOS (Xcode project)
+│   ├── PerformanceTests/       # Pruebas de rendimiento
+│   ├── .env.example            # Referencia de variables necesarias (ver Secrets.xcconfig.example)
+│   └── README.md               # README original del proyecto iOS
+└── README.md
+```
+
 ## Tecnologías Utilizadas
 
 - Swift como lenguaje de programación.
