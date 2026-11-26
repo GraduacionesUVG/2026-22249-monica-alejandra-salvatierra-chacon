@@ -12,7 +12,7 @@ La aplicación depende de la ubicación física del usuario y solo funciona corr
 
 **Mi aporte**
 
-Dentro del equipo, mi trabajo se concentró en el diseño de la arquitectura modular general de la aplicación y en la integración entre los distintos módulos, incluyendo el bus de eventos, la inyección de dependencias y el manejo centralizado del estado del recorrido. Además, desarrollé el módulo de lenguaje, encargado de la experiencia en español e inglés. 
+Mi trabajo se concentró en el diseño de la arquitectura modular general de la aplicación y en la integración entre los distintos módulos, incluyendo el bus de eventos, la inyección de dependencias y el manejo centralizado del estado del recorrido. Además, desarrollé el módulo de lenguaje, encargado de la experiencia en español e inglés. 
 
 ## Estructura del Repositorio
 
@@ -114,6 +114,5 @@ El video demostrativo se encuentra en [demo/demo.mp4](demo/demo.mp4).
 ## Autores
 
 - Mónica Alejandra Salvatierra Chacón - 22249
-- José Santiago Pereira Alvarado - 22318
-- Andre Yatmian Jo Mai - 22199
-- Nancy Gabriela Mazariegos Molina - 22513
+- Asesor: Ing. Erick Francisco Marroquín Rodríguez
+
